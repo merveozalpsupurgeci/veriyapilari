@@ -23,7 +23,7 @@ Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı buld
 
 *İnsertion sort Big-O gösterimi O(n²) dir. 
 
- Time Complexity
+ ## Time Complexity
 
 	 2	   6	  16	  18	  22	  27 
 
