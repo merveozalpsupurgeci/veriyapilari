@@ -1,7 +1,7 @@
 # veriyapilariProje 1 -  Insertion Sort
 
 
-	       ```  22        27	16	2	18	  6  ```
+	      22        27	16	2	18	  6  
 
 Öncelikle dizideki en küçük eleman seçilerek ilk eleman ile yer değiştirilerek başlanır
 
