@@ -1,0 +1,9 @@
+Binary Search Tree
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Root 7 dir. Rootun sol alt nodunda 5 sağ alt nodunda 8 bulunur.
+5 in so alt nodunda 1 sağ alt nodunda 6 bulunur.
+1 in sol alt nodunda 0 sağ alt nodunda 3 bulunur.
+3 ün sol alt nodunda 2 sağ alt nodunda 4 bulunur.
+5 in sağ alt nodunda 6 bulunur.
+8 in sağ alt nodunda 9 bulunur.
