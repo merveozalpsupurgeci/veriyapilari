@@ -5,19 +5,19 @@
 
 Öncelikle dizideki en küçük eleman seçilerek ilk eleman ile yer değiştirilerek başlanır
 
-		``` 2    27	16	22	18	 6 ```
+	      2        27	16	22	18	 6 
 
 İlk sırada en küçük olan olduğundan listenin sıralanmamış kısmında işleme devam ediyoruz en küçük elemanını bulup ilk sıradaki ile yer değiştiriyoruz.
 
-		``` 2	 6 	16	 22     18	  27 ```
+		2	 6 	16	 22     18	  27
 
 Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı bulduğumuzda ilk sırada olduğunu görüyoruz ve işlem yapmıyoruz
 
-		``` 2	  6	16      22	 18	  27 ```
+		 2	  6	16      22	 18	  27 
 
 Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı en başa alarak devam ediyoruz
 
-		``` 2	  6	16	18        22      27 ```
+		 2	  6	16	18        22      27 
 
 Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı bulduğumuzda ilk sırada olduğunu görüyoruz ve işlem yapmıyoruz ve sıralamayı bitiriyoruz
 
@@ -25,7 +25,7 @@ Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı buld
 
                ## Time Compexity
 
-	``` 2	   6	  16	  18	  22	  27 ```
+	 2	   6	  16	  18	  22	  27 
 
 Listenin sırlanmış son halinde aranana değer olan 18 ortada olduğundan average case kapsamına girer.
 
