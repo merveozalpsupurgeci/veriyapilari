@@ -23,13 +23,13 @@ Listenin sıralanmamış olan kısmından devam ederek en küçük elemanı buld
 
 *İnsertion sort Big-O gösterimi O(n²) dir. 
 
-               ## Time Compexity
+## Time Complexity
 
 	 2	   6	  16	  18	  22	  27 
 
 Listenin sırlanmış son halinde aranana değer olan 18 ortada olduğundan average case kapsamına girer.
 
-				 ###  Selection Sort
+## Selection Sort
 
 ```
 7	3	5	8	2	9	4	15	6
